@@ -1,5 +1,5 @@
-# memsql-sagemaker-devday-01
-MemSQL and AWS Sagemaker Developer Day 01
+# memsql-sagemaker-looker-devday-02
+MemSQL, AWS Sagemaker and Looker Developer Day 02
 
 Presentation Deck 
 
