@@ -3,7 +3,7 @@ MemSQL, AWS Sagemaker and Looker Developer Day 02
 
 Presentation Deck 
 
-(pdf): https://drive.google.com/file/d/176VllO72-UsPBKSxLPb9TXgLoBp3Z3ZD/view?usp=sharing
+(pdf): https://drive.google.com/file/d/1xEKfBk3ZZ4VWtaDP0vyjcyXLLs1YTLCN/view?usp=sharing
 
 Hands On Workshop - Student Guide
 
